@@ -1,0 +1,26 @@
+.favorites__card-skate-00 {
+  background-image: url(../images/catalog/skate_00_1.jpeg);
+  background-position: center;
+  background-size: 140%;
+  background-repeat: no-repeat;
+}
+
+.favorites__card-skate-00:hover {
+  background-image: url(../images/catalog/skate_00_2.jpeg);
+  background-size: 120%;
+}
+
+/*
+.card-skate-00 {
+  background-image: url(../images/catalog/skate_00_1.jpeg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+
+.card-skate-00:hover {
+  background-image: url(../images/catalog/skate_00_2.jpeg);
+  background-size: 120%;
+}
+*/
+

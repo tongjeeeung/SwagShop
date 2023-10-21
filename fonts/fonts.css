@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Christmas';
+  src:
+    url(./Christmas\ ScriptC.ttf) format('truetype');
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src:
+    url(./Raleway-Bold.woff2) format('woff2'),
+    url(./Raleway-Bold.woff) format('woff');
+  font-weight: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: url(./NotoSans-Thin.ttf) format(truetype);
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: url(./NotoSans-SemiBold.ttf) format(truetype);
+  font-weight: bold;
+  font-display: swap;
+}
