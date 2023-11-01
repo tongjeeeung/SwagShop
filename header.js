@@ -7,7 +7,7 @@ class Header {
       <a class="header__logo" href="/index.html">
         <img 
           class="header__logo-image"
-          src="/images/nMetfr_2abA.jpg"
+          src="../../images/nMetfr_2abA.jpg"
           alt="Лого сайта"
           >
       </a>
