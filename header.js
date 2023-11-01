@@ -4,7 +4,7 @@ class Header {
 
     const htmlHeader = `
     <nav class="header__menu">
-      <a class="header__logo" href="/index.html">
+      <a class="header__logo" href="https://tongjeeeung.github.io/SwagShop/content/index.html">
         <img 
           class="header__logo-image"
           src="../../images/nMetfr_2abA.jpg"
