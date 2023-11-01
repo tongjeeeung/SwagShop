@@ -40,10 +40,10 @@
   transition: transform .2s linear;
 }
 
-.card-title {
+img + .card-title {
   padding: 20px 0;
   font-size: 14px;
-  max-width: 350px;
+  width: 350px;
 }
 
 .product__price {
