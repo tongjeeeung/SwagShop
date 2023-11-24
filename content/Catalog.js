@@ -35,15 +35,15 @@ class Catalog {
 
         if(img2 == '') {
           htmlCardImgs = `
-          <img class="card-catalog hide-img test" src="${img1}" id="${id}"/>
-          <img class="card-catalog" src="${img1}"/>
+          <img class="card-catalog hide-img test" src="../${img1}" id="${id}"/>
+          <img class="card-catalog" src="../${img1}"/>
           `
         }
 
         else {
           htmlCardImgs = `
-          <img class="card-catalog hide-img test" src="${img1}" id="${id}"/>
-          <img class="card-catalog" src="${img2}"/>
+          <img class="card-catalog hide-img test" src="../${img1}" id="${id}"/>
+          <img class="card-catalog" src="../${img2}"/>
           `
         }
 

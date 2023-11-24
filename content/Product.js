@@ -60,19 +60,19 @@ class Product {
 
         if(img2 == ''){
           htmlSlider += `
-          <img class="slider-img" src="${img1}">
+          <img class="slider-img" src="../${img1}">
           `
         }
 
         else {
           htmlSlider += `
-          <img class="slider-img" src="${img1}">
-          <img class="slider-img" src="${img2}">
+          <img class="slider-img" src="../${img1}">
+          <img class="slider-img" src="../${img2}">
           `
 
           htmlBox += `
-            <img class="box-img prev" src="${img1}">
-            <img class="box-img next" src="${img2}">
+            <img class="box-img prev" src="../${img1}">
+            <img class="box-img next" src="../${img2}">
           `
         }
 

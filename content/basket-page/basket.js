@@ -79,7 +79,7 @@ class Basket {
           htmlBasketLi += `
             <li class="catalog-item">
               <a class="basket-link">
-                <img class="basket-img" src="${img1}"/>
+                <img class="basket-img" src="../${img1}"/>
                 <div class="basket-info">
                   <h4 class="basket-title">${name}</h4>
                   <p class="basket-description">zero</p>
