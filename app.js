@@ -38,37 +38,37 @@ class Favorites {
           
           if(array[i].split('')[0] == 's'){
             htmlLink = `
-            /content/skate-page/skate.html#${id}
+            ./skate-page/skate.html#${id}
             `
           }
 
           if(array[i].split('')[0] == 'b'){
             htmlLink = `
-            /content/bones-page/bones.html#${id}
+            ./bones-page/bones.html#${id}
             `
           }
 
           if(array[i].split('')[0] == 'c'){
             htmlLink = `
-            /content/screws-page/screws.html#${id}
+            ./screws-page/screws.html#${id}
             `
           }
 
           if(array[i].split('')[0] == 'k'){
             htmlLink = `
-            /content/skin-page/skin.html#${id}
+            ./skin-page/skin.html#${id}
             `
           }
 
           if(array[i].split('')[0] == 't'){
             htmlLink = `
-            /content/trak-page/track.html#${id}
+            ./trak-page/track.html#${id}
             `
           }
 
           if(array[i].split('')[0] == 'w'){
             htmlLink = `
-            /content/wheels-page/wheels.html#${id}
+            ./wheels-page/wheels.html#${id}
             `
           }
 
