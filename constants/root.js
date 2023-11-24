@@ -1,5 +1,6 @@
 const ROOT_SKATE = document.getElementById('catalog');
-const ROOT_HEADER = document.getElementById('header');
+const ROOT_HEADER = document.getElementById('headerIndex');
+const ROOT_HEADER2 = document.getElementById('header');
 const containHidenImg = document.querySelectorAll('hide-img');
 let lastId = null;
 let imgId = '';
